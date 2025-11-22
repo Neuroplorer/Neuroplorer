@@ -34,5 +34,5 @@
       <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,vscode,git,linux,md" />
     </a>
   </p>
-
+![头像](https://github.com/Neuroplorer/Neuroplorer/blob/main/%E8%93%9D%E4%B8%8E%E7%9B%B4%E5%93%89_Github.png)
 </div>
