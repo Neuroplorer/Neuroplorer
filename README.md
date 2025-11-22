@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Neuroplorer;Mainly+interested+in+AIGC;show+me+the+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Neuroplorer;Mainly+interested+in+AIGC;show+me+your+idea." alt="Typing SVG" />
 </a>
 
 <br>
@@ -10,10 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=neuroplorer&show_icons=true&theme=radical" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuroplorer&layout=compact&theme=radical" alt="Langs" height="150" />
 </p>
+
 <img src="https://img.shields.io/badge/讨厌-卷狗-yellow" alt="讨厌卷狗" />
 <img src="https://img.shields.io/badge/爱好-躺平-red" alt="爱好躺平" />
 <img src="https://img.shields.io/badge/状态-摸鱼中-blue" alt="状态摸鱼中" />
-
 <br><br>
 
 <p>
