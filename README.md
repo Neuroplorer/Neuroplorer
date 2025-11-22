@@ -22,6 +22,6 @@
   </a>
 </p>
 
-<img src="https://i0.hdslb.com/bfs/article/fc5dccb42f93ac694db725fdd9fb9f1849a6dd6d.jpg@1256w_708h_!web-article-pic.avif" width="750" style="border-radius: 50%;" />
+<img src="https://github.com/Neuroplorer/Neuroplorer/blob/main/%E8%93%9D%E4%B8%8E%E7%9B%B4%E5%93%89_Github.png" width="750" style="border-radius: 50%;" />
 
 </div>
