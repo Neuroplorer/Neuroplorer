@@ -22,11 +22,9 @@
   </table>
 
   <br>
-
   <img src="https://img.shields.io/badge/讨厌-卷狗-yellow" />
   <img src="https://img.shields.io/badge/爱好-躺平-red" />
   <img src="https://img.shields.io/badge/状态-摸鱼中-blue" />
-
   <br><br>
 
   <p>
