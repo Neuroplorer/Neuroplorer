@@ -22,6 +22,6 @@
   </a>
 </p>
 
-<img src="https://i0.hdslb.com/bfs/article/4fde14f2939ec80808719eeb741f1db8816003c5.jpg@1256w_708h_!web-article-pic.avif" width="700" style="border-radius: 50%;" />
+<img src="https://i0.hdslb.com/bfs/article/fc5dccb42f93ac694db725fdd9fb9f1849a6dd6d.jpg@1256w_708h_!web-article-pic.avif" width="750" style="border-radius: 50%;" />
 
 </div>
