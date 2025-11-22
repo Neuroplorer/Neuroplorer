@@ -1,15 +1,21 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E¢er=true&vCenter=true&width=435&lines=Hi,+I'm+Neuroplorer; Mainly+interested+in+AIGC;+show+me+the+code.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Neuroplorer;Mainly+interested+in+AIGC;show+me+the+code." alt="Typing SVG" />
+</a>
+
+<br>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=neuroplorer&show_icons=true&theme=radical" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuroplorer&layout=compact&theme=radical" alt="Langs" height="150" />
 </p>
-![](https://img.shields.io/badge/讨厌-卷狗-yellow)
-![](https://img.shields.io/badge/爱好-躺平-red)
-![](https://img.shields.io/badge/状态-摸鱼中-blue)
 
-<br>
+<img src="https://img.shields.io/badge/讨厌-卷狗-yellow" alt="讨厌卷狗" />
+<img src="https://img.shields.io/badge/爱好-躺平-red" alt="爱好躺平" />
+<img src="https://img.shields.io/badge/状态-摸鱼中-blue" alt="状态摸鱼中" />
+
+<br><br>
 
 <p>
   <a href="https://skillicons.dev">
@@ -17,9 +23,6 @@
   </a>
 </p>
 
-
-![头像](https://github.com/neuroplorer.png)
-
-
+<img src="https://github.com/neuroplorer.png" width="300" style="border-radius: 50%;" />
 
 </div>
