@@ -10,7 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=neuroplorer&show_icons=true&theme=radical" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuroplorer&layout=compact&theme=radical" alt="Langs" height="150" />
 </p>
-
 <img src="https://img.shields.io/badge/讨厌-卷狗-yellow" alt="讨厌卷狗" />
 <img src="https://img.shields.io/badge/爱好-躺平-red" alt="爱好躺平" />
 <img src="https://img.shields.io/badge/状态-摸鱼中-blue" alt="状态摸鱼中" />
