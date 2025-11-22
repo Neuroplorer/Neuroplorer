@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E¢er=true&vCenter=true&width=435&lines=Hi,+I'm+Neuroplorer; Mainly+interested+in+AIGC;+show+me+the+code.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E¢er=true&vCenter=true&width=435&lines=Hi,+I'm+Neuroplorer; Mainly+interested+in+AIGC;+show+me+the+code.)](https://git.io/typing-svg)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=neuroplorer&show_icons=true&theme=radical" alt="Stats" height="150" />
