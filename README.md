@@ -5,9 +5,7 @@
   </a>
   
   <br>
-
   <img src="https://count.getloli.com/get/@neuroplorer?theme=rule34" alt="Moe Counter" />
-
   <br><br>
 
   <table border="0">
